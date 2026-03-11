@@ -11,6 +11,15 @@ digital screens. Inspired by analog printing inks and warm paper tones.
 **Source / attribution**: stephango.com/flexoki — MIT licensed. Always include attribution
 when porting to a new app.
 
+# General Design Principles
+- Warm, analog-inspired palette with earthy tones and inky hues
+- High contrast for readability, with a range of light/dark options
+- Flexible architecture for different use cases (syntax highlighting, UI theming, design systems)
+- Do not use Glassy or other transparency effects — Flexoki is designed for solid colors only
+- Avoid too many gradients or complex color combinations — Flexoki shines when used with restraint and intention
+- Prioritize accessibility and legibility in all color pairings, especially for text and UI elements
+- The design should look like it was printed with ink on paper, with a tactile, organic feel rather than a glossy digital aesthetic
+
 ---
 
 ## Palette Architecture
